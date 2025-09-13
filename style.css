@@ -204,7 +204,7 @@ section .title::after {
     display: flex;
     height: 100vh;
     min-height: 500px;
-    background: linear-gradient(120deg, rgba(8, 8, 8, 0.5) 0%, rgba(14, 13, 13, 0.4) 100%), url(../images/Portfolio.jpg);
+    background: linear-gradient(120deg, rgba(8, 8, 8, 0.5) 0%, rgba(14, 13, 13, 0.4) 100%), url(Portfolio.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -935,4 +935,5 @@ footer span a:hover {
         line-height: 38px;
     }
     
+
 }
